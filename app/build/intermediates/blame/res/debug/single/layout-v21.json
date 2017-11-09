@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\SMC\\MQTT\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\3e81b74eff23de551ff04cf9077cfebad4acbbb8\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\SMC\\MQTT\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\3e81b74eff23de551ff04cf9077cfebad4acbbb8\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\SMC\\MQTT\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\3e81b74eff23de551ff04cf9077cfebad4acbbb8\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\SMC\\MQTT\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\3e81b74eff23de551ff04cf9077cfebad4acbbb8\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

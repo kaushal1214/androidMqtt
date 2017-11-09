@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\40063fb8c53d05d8270cc9009c7ba15430568876\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\classes_ba47d467cc1e35e96426b7a190fea9c46d299a32.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\40063fb8c53d05d8270cc9009c7ba15430568876\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba47d467cc1e35e96426b7a190fea9c46d299a32\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9bfc8eea6d3a884966c5d20311ecf2c0157f5a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.1.0\89d827ffa47c241f2627421ef1d6c7a8c207a341\org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.1.0_a9e80073be678e5639393c7b358561ee6ee6fadf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9263d30f111c3b6e0558465411b53d19545e50e6">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3f2d4b315764ef4fc3b6eb7a074bca11d46dcf26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_9bfc8eea6d3a884966c5d20311ecf2c0157f5a4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\826afd0b3ef282e969716ae865195a79b0f456d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\classes_57461df933f0025bdf7950e3571d51d710c94cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_7d2894ce80ace230fecb4fa475981dcb881a26af.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\826afd0b3ef282e969716ae865195a79b0f456d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57461df933f0025bdf7950e3571d51d710c94cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\1e3dcc23be71bfc3fd875b0ca53b614e8c8e12c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\classes_5be7716740613aa4994f1507c04ef0a7d882b7e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\1e3dcc23be71bfc3fd875b0ca53b614e8c8e12c5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5be7716740613aa4994f1507c04ef0a7d882b7e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.android.service\1.1.1\6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5\org.eclipse.paho.android.service-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.android.service-1.1.1_a82856436a159e37b1e1ca2f4c4838f16ca3eb18.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.android.service\1.1.1\6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5\org.eclipse.paho.android.service-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.android.service-1.1.1_a82856436a159e37b1e1ca2f4c4838f16ca3eb18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_7d2894ce80ace230fecb4fa475981dcb881a26af\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\3c5087cfd45ee8c5862d6739f744808f1c6222f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\classes_0ede6e9a4b1cc6507248825016e42f1c85b792d4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\3c5087cfd45ee8c5862d6739f744808f1c6222f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ede6e9a4b1cc6507248825016e42f1c85b792d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\c670f0abaf3588dc2190129e1893461340a6d776\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cfa6765fc7157192e7d4a04157db9efa2170fb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_071db220e41462ad0341f63b1a8a03e0b11461c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\43e5aa4dec15ce2494276c79332762ee73bd0252\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_090264d4d1c9c5524fc8647daf73734c5e77b292\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\c670f0abaf3588dc2190129e1893461340a6d776\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\classes_3cfa6765fc7157192e7d4a04157db9efa2170fb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\c60ea5b34e93eff49a05ad038ff271d2b7027b24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\classes_8bd00d1f95b91299c7e585eceef36ab656d3de42.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\c60ea5b34e93eff49a05ad038ff271d2b7027b24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bd00d1f95b91299c7e585eceef36ab656d3de42\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\43e5aa4dec15ce2494276c79332762ee73bd0252\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\classes_090264d4d1c9c5524fc8647daf73734c5e77b292.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\3e81b74eff23de551ff04cf9077cfebad4acbbb8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcbda0ff4f27a6079468f6ec28872b66a6f05fcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\f0e58f342ca38752005bc58780c314b600b119e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\classes_5274258fbe71ef5415a956e90260748629579b64.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.1.0\89d827ffa47c241f2627421ef1d6c7a8c207a341\org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.eclipse.paho.client.mqttv3-1.1.0_a9e80073be678e5639393c7b358561ee6ee6fadf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\f0e58f342ca38752005bc58780c314b600b119e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5274258fbe71ef5415a956e90260748629579b64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\c0590f7bcf3ed53012287c562375e772ff569c33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9e931443af230715ac76a8ce7a7f3f637e14df8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\c0590f7bcf3ed53012287c562375e772ff569c33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\classes_e9e931443af230715ac76a8ce7a7f3f637e14df8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.android\build-cache\3e81b74eff23de551ff04cf9077cfebad4acbbb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\HP\Desktop\SMC\MQTT\app\build\intermediates\pre-dexed\debug\classes_fcbda0ff4f27a6079468f6ec28872b66a6f05fcf.jar" />
+    </item>
+
+</items>

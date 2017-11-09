@@ -1,0 +1,7 @@
+#Thu Apr 13 11:29:15 IST 2017
+base.0=C\:\\Users\\HP\\Desktop\\SMC\\MQTT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3f2d4b315764ef4fc3b6eb7a074bca11d46dcf26
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\HP\\Desktop\\SMC\\MQTT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_071db220e41462ad0341f63b1a8a03e0b11461c3\\classes.dex
+base.1=C\:\\Users\\HP\\Desktop\\SMC\\MQTT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_071db220e41462ad0341f63b1a8a03e0b11461c3
+file.0=C\:\\Users\\HP\\Desktop\\SMC\\MQTT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3f2d4b315764ef4fc3b6eb7a074bca11d46dcf26\\classes.dex
