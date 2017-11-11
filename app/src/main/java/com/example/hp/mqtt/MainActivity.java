@@ -134,8 +134,11 @@ public class MainActivity extends AppCompatActivity implements MqttCallback, Vie
                                 pd.setMessage("Connecting...");
                                 pd.show();
 
+
+
                                 //Connecting to Broker
                                 try {
+
                                     client.connect(null, new IMqttActionListener() {
                                         @Override
                                         public void onSuccess(IMqttToken asyncActionToken) {
@@ -191,13 +194,15 @@ public class MainActivity extends AppCompatActivity implements MqttCallback, Vie
 
     @Override
     protected void onPause() {
-        if(client.isConnected())
-            try {
+      if(client.isConnected())
+        try {
                 client.disconnect();
                 client.unregisterResources();
             } catch (MqttException e) {
                 e.printStackTrace();
-            }
+           }
         super.onPause();
     }
+
+
 }

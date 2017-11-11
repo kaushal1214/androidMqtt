@@ -1,89 +1,133 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/053dc0c242151440401ded4138797b0f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kaushal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bf3f79dffeb371ad27b99686cf7a5778/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/7928d5c671ba285b30e2c4e48ccadb3d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/c17f565e87eb51d140e516687aa45620/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/8d75af20a103ad4897d5204848eeb37a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/2bd4fe491c4518c056306dd23efed3eb/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/f21211559cd97fba1da8f3ba4d397e57/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/1e535fce328b3174da462f0f07ac818b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/5de8b2d637604fa203affc234f04e499/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/26e4d11b763d53bd0ddb65e99dd152d7/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:3:5-34
-		INJECTED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml
+		INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:5:5-68
+ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:5:5-68
 	android:name
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:5:22-65
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:5:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:8:5-23:19
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\HP\.android\build-cache\3e81b74eff23de551ff04cf9077cfebad4acbbb8\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\HP\.android\build-cache\f0e58f342ca38752005bc58780c314b600b119e0\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\HP\.android\build-cache\c670f0abaf3588dc2190129e1893461340a6d776\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\HP\.android\build-cache\3c5087cfd45ee8c5862d6739f744808f1c6222f0\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\HP\.android\build-cache\826afd0b3ef282e969716ae865195a79b0f456d3\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\HP\.android\build-cache\c60ea5b34e93eff49a05ad038ff271d2b7027b24\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\HP\.android\build-cache\40063fb8c53d05d8270cc9009c7ba15430568876\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\HP\.android\build-cache\43e5aa4dec15ce2494276c79332762ee73bd0252\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\HP\.android\build-cache\1e3dcc23be71bfc3fd875b0ca53b614e8c8e12c5\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP\.android\build-cache\c0590f7bcf3ed53012287c562375e772ff569c33\output\AndroidManifest.xml:9:5-20
-	android:label
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:11:9-41
+ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/053dc0c242151440401ded4138797b0f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/053dc0c242151440401ded4138797b0f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kaushal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bf3f79dffeb371ad27b99686cf7a5778/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kaushal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bf3f79dffeb371ad27b99686cf7a5778/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/7928d5c671ba285b30e2c4e48ccadb3d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/7928d5c671ba285b30e2c4e48ccadb3d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/c17f565e87eb51d140e516687aa45620/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/c17f565e87eb51d140e516687aa45620/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/8d75af20a103ad4897d5204848eeb37a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/8d75af20a103ad4897d5204848eeb37a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/2bd4fe491c4518c056306dd23efed3eb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/2bd4fe491c4518c056306dd23efed3eb/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/f21211559cd97fba1da8f3ba4d397e57/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/f21211559cd97fba1da8f3ba4d397e57/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/1e535fce328b3174da462f0f07ac818b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/1e535fce328b3174da462f0f07ac818b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/5de8b2d637604fa203affc234f04e499/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/5de8b2d637604fa203affc234f04e499/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/26e4d11b763d53bd0ddb65e99dd152d7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/26e4d11b763d53bd0ddb65e99dd152d7/AndroidManifest.xml:25:5-20
 	android:supportsRtl
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:12:9-54
-	android:allowBackup
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:10:9-42
+	android:allowBackup
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:14:9-40
 activity#com.example.hp.mqtt.MainActivity
-ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:15:19-47
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:15:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:19:27-74
 service#org.eclipse.paho.android.service.MqttService
-ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:22:9-80
+ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:22:9-80
 	android:name
-		ADDED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml:22:18-77
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml:22:18-77
 uses-sdk
-INJECTED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\HP\.android\build-cache\3e81b74eff23de551ff04cf9077cfebad4acbbb8\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\HP\.android\build-cache\f0e58f342ca38752005bc58780c314b600b119e0\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\HP\.android\build-cache\c670f0abaf3588dc2190129e1893461340a6d776\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\HP\.android\build-cache\3c5087cfd45ee8c5862d6739f744808f1c6222f0\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\HP\.android\build-cache\826afd0b3ef282e969716ae865195a79b0f456d3\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\HP\.android\build-cache\c60ea5b34e93eff49a05ad038ff271d2b7027b24\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\HP\.android\build-cache\40063fb8c53d05d8270cc9009c7ba15430568876\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\HP\.android\build-cache\43e5aa4dec15ce2494276c79332762ee73bd0252\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\HP\.android\build-cache\1e3dcc23be71bfc3fd875b0ca53b614e8c8e12c5\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HP\.android\build-cache\c0590f7bcf3ed53012287c562375e772ff569c33\output\AndroidManifest.xml:5:5-7:41
+INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
+INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/053dc0c242151440401ded4138797b0f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/053dc0c242151440401ded4138797b0f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kaushal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bf3f79dffeb371ad27b99686cf7a5778/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kaushal/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/bf3f79dffeb371ad27b99686cf7a5778/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/7928d5c671ba285b30e2c4e48ccadb3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.1.0.aar/7928d5c671ba285b30e2c4e48ccadb3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/c17f565e87eb51d140e516687aa45620/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.1.0.aar/c17f565e87eb51d140e516687aa45620/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/8d75af20a103ad4897d5204848eeb37a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-v4-25.1.0.aar/8d75af20a103ad4897d5204848eeb37a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/2bd4fe491c4518c056306dd23efed3eb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-fragment-25.1.0.aar/2bd4fe491c4518c056306dd23efed3eb/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/f21211559cd97fba1da8f3ba4d397e57/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.1.0.aar/f21211559cd97fba1da8f3ba4d397e57/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/1e535fce328b3174da462f0f07ac818b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.1.0.aar/1e535fce328b3174da462f0f07ac818b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/5de8b2d637604fa203affc234f04e499/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.1.0.aar/5de8b2d637604fa203affc234f04e499/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/26e4d11b763d53bd0ddb65e99dd152d7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/support-compat-25.1.0.aar/26e4d11b763d53bd0ddb65e99dd152d7/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
+INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\HP\.android\build-cache\3e81b74eff23de551ff04cf9077cfebad4acbbb8\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /home/kaushal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/053dc0c242151440401ded4138797b0f/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml
+		INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\HP\Desktop\SMC\MQTT\app\src\main\AndroidManifest.xml
+		INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
+		ADDED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kaushal/workspace/Mqtt/app/src/main/AndroidManifest.xml
